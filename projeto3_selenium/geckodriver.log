@@ -433,3 +433,11 @@ WebDriver BiDi listening on ws://127.0.0.1:49827
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OLIWER\\AppData\\Local\\Temp\\rust_mozprofileRBIwA6\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:49827/devtools/browser/6784351e-8e6f-4d8f-8687-6c2bce1e3dcd
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.br."
+Shutting down due to socket process crash.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1637: Error: permitUnload is already running for this tab.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1673392046828	Marionette	INFO	Stopped listening on port 49839
+JavaScript error: , line 0: uncaught exception: undefined

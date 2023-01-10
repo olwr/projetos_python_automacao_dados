@@ -5,6 +5,7 @@
 
 ### Projeto 1: Baixando e enviando arquivos com PyAutoGUI
 ![progresso: concluído](https://img.shields.io/badge/progresso-concluído-forestgreen "progresso")
+
 Mini projeto para iniciar na automação com Python.
 
 ```python
@@ -24,6 +25,7 @@ O PyAutoGui então abrirá o email, vai então preencher as informações necess
 
 ### Projeto 2: Análise de dados com Pandas e Plotly
 ![progresso: concluído](https://img.shields.io/badge/progresso-concluído-forestgreen "progresso")
+
 Mini projeto para análise e tratamento de dados.
 
 ```python
@@ -36,6 +38,7 @@ Com o Plotly pode-se fazer uma melhor análise e visualização, usando a biblio
 
 ### Projeto 3: Automação de processos com Selenium
 ![progresso: concluído](https://img.shields.io/badge/progresso-concluído-forestgreen "progresso")
+
 Mini projeto de automação com Selenium.
 
 ```python
@@ -54,6 +57,7 @@ Para que mantenha a tabela antiga sem alterações, um arquivo excel novo é cri
 
 ### Projeto 4: Modelo de previsão com Seaborn e Matplotlib
 ![progresso: concluído](https://img.shields.io/badge/progresso-concluído-forestgreen "progresso")
+
 Mini projeto de previsão de dados.
 
 ```python
@@ -75,4 +79,5 @@ As previsões podem ser visualizadas na IDE e uma nova tabela com todos os dados
 
 ### Projeto 5: Automação do projeto 1, mas com Selenium
 ![progresso: em andamento](https://img.shields.io/badge/progresso-em%20andamento-cadetblue "progresso")
+
 O mesmo conteúdo do primeiro projeto, mas usando a biblioteca Selenium no lugar do PyAutoGUI.
