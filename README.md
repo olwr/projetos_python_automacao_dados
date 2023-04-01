@@ -21,7 +21,7 @@ Com a biblioteca Pandas será feita a leitura do arquivo e o cálculo dos indica
 
 O PyAutoGui então abrirá o email, vai então preencher as informações necessárias, indexar o arquivo e compor a mensagem do email, para então envia-lo.
 
-* PS: O código só funciona de forma correta no computador de origem, pois precisar de dados que podem variar de máquina em máquina - como a posição do mouse no monitor.
+* PS: O código só funciona de forma correta no computador de origem, pois precisa de dados que podem variar de máquina em máquina - como a posição do mouse no monitor.
 
 ### Projeto 2: Análise de dados com Pandas e Plotly
 ![progresso: concluído](https://img.shields.io/badge/progresso-concluído-forestgreen "progresso")
